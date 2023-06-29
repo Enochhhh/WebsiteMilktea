@@ -9,4 +9,4 @@ Project: Website Milktea Ecommerce with JSP/Servlet
 # Requirements
   1. IDE: Apache NetBeans IDE 14
   2. Tomcat Server
-  3. Postgre SQL
+  3. Database: Postgre SQL
